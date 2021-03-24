@@ -26,4 +26,4 @@ typedef struct complex_t {
 
 ## Solutions
 
-* By [Jay Singh](https://github.com/codemonk-007/MiniProject_Template/tree/master/Example_Programs/programming_concpets/calculator_complex)
+* By [Jay Singh](https://github.com/codemonk-007/LnT-Stepin-Projects/edit/main/calculator_complex)
