@@ -144,3 +144,13 @@ int main(void)
     /* Close the Unity Test Framework */
     return UNITY_END();
 }
+/*UNIT TEST OUTPUT
+test/test_complex_calculator.c:139:test_zero:PASS
+test/test_complex_calculator.c:140:test_positive:PASS
+test/test_complex_calculator.c:141:test_negative:PASS
+test/test_complex_calculator.c:142:test_null:PASS
+
+-----------------------
+4 Tests 0 Failures 0 Ignored 
+OK
+*/
